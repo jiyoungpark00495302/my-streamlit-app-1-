@@ -1,0 +1,6 @@
+fastapi
+uvicorn
+pydantic
+typing-extensions
+openai
+streamlit
